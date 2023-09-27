@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "970678976261",
+    "project_id": "pdm2-57815",
+    "storage_bucket": "pdm2-57815.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970678976261:android:f96b31b945cdd23be2c16c",
+        "android_client_info": {
+          "package_name": "com.mycompany.ifpepdm2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2bErAHVekFLh_eMNkTAMpWqhw2jFqeeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
